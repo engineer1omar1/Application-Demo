@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 156.99,
+    "category": "Electronics",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%8E%A7%3C/text%3E%3C/svg%3E",
+    "description": "Wireless Bluetooth Headphones. Crisp, clear performance for everyday use. Easy plug-and-play setup, no drivers needed."
+  },
+  {
+    "id": 2,
+    "title": "Noise Cancelling Earbuds",
+    "price": 88.99,
+    "category": "Electronics",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%8E%A7%3C/text%3E%3C/svg%3E",
+    "description": "Noise Cancelling Earbuds. Fast and reliable with a long-lasting battery. Built with premium materials for durability."
+  },
+  {
+    "id": 3,
+    "title": "Smart Watch Series X",
+    "price": 344.99,
+    "category": "Electronics",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%E2%8C%9A%3C/text%3E%3C/svg%3E",
+    "description": "Smart Watch Series X. Sleek modern design that fits any setup. Energy efficient and quiet in operation."
+  },
+  {
+    "id": 4,
+    "title": "4K Action Camera",
+    "price": 468.99,
+    "category": "Electronics",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%93%B7%3C/text%3E%3C/svg%3E",
+    "description": "4K Action Camera. Easy plug-and-play setup, no drivers needed. Seamless connectivity with all your devices."
+  },
+  {
+    "id": 5,
+    "title": "Portable Bluetooth Speaker",
+    "price": 404.99,
+    "category": "Electronics",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%94%8A%3C/text%3E%3C/svg%3E",
+    "description": "Portable Bluetooth Speaker. Built with premium materials for durability. Backed by a 12-month warranty."
+  },
+  {
+    "id": 6,
+    "title": "Leather Phone Case",
+    "price": 41.99,
+    "category": "Accessories",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%93%B1%3C/text%3E%3C/svg%3E",
+    "description": "Leather Phone Case. Stylish and practical for daily wear. Available in a versatile neutral finish."
+  },
+  {
+    "id": 7,
+    "title": "Tempered Glass Screen Protector",
+    "price": 73.99,
+    "category": "Accessories",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%9B%A1%EF%B8%8F%3C/text%3E%3C/svg%3E",
+    "description": "Tempered Glass Screen Protector. Made from high-quality, long-lasting materials. Designed for a comfortable, secure fit."
+  },
+  {
+    "id": 8,
+    "title": "Braided USB-C Cable",
+    "price": 57.99,
+    "category": "Accessories",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%94%8C%3C/text%3E%3C/svg%3E",
+    "description": "Braided USB-C Cable. Slim profile that is easy to carry. A thoughtful gift for any occasion."
+  },
+  {
+    "id": 9,
+    "title": "Magnetic Car Phone Mount",
+    "price": 113.99,
+    "category": "Accessories",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%9A%97%3C/text%3E%3C/svg%3E",
+    "description": "Magnetic Car Phone Mount. Available in a versatile neutral finish. Lightweight yet surprisingly durable."
+  },
+  {
+    "id": 10,
+    "title": "Laptop Sleeve 15-inch",
+    "price": 81.99,
+    "category": "Accessories",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%92%BC%3C/text%3E%3C/svg%3E",
+    "description": "Laptop Sleeve 15-inch. Designed for a comfortable, secure fit. Carefully stitched with attention to detail."
+  },
+  {
+    "id": 11,
+    "title": "Ergonomic Office Chair",
+    "price": 100.99,
+    "category": "Office Supplies",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%AA%91%3C/text%3E%3C/svg%3E",
+    "description": "Ergonomic Office Chair. Keeps your workspace tidy and productive. Durable construction built for daily use."
+  },
+  {
+    "id": 12,
+    "title": "Adjustable Standing Desk",
+    "price": 159.99,
+    "category": "Office Supplies",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%96%A5%EF%B8%8F%3C/text%3E%3C/svg%3E",
+    "description": "Adjustable Standing Desk. Smooth, reliable performance all day long. Clean, professional look for any desk."
+  },
+  {
+    "id": 13,
+    "title": "Gel Pen Set (12 Colors)",
+    "price": 18.7,
+    "category": "Office Supplies",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%96%8A%EF%B8%8F%3C/text%3E%3C/svg%3E",
+    "description": "Gel Pen Set (12 Colors). Great value for home offices and classrooms. Easy to set up and use right away."
+  },
+  {
+    "id": 14,
+    "title": "A5 Hardcover Notebook",
+    "price": 42.99,
+    "category": "Office Supplies",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%93%93%3C/text%3E%3C/svg%3E",
+    "description": "A5 Hardcover Notebook. Durable construction built for daily use. Designed to reduce clutter and save time."
+  },
+  {
+    "id": 15,
+    "title": "Sticky Notes Bulk Pack",
+    "price": 15.04,
+    "category": "Office Supplies",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%97%92%EF%B8%8F%3C/text%3E%3C/svg%3E",
+    "description": "Sticky Notes Bulk Pack. Clean, professional look for any desk. Comfortable to use during long work sessions."
+  },
+  {
+    "id": 16,
+    "title": "Performance Running T-Shirt",
+    "price": 53.99,
+    "category": "Sportswear",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%91%95%3C/text%3E%3C/svg%3E",
+    "description": "Performance Running T-Shirt. Breathable fabric keeps you cool and dry. Lightweight and built for high performance."
+  },
+  {
+    "id": 17,
+    "title": "Quick-Dry Training Shorts",
+    "price": 114.99,
+    "category": "Sportswear",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%A9%B3%3C/text%3E%3C/svg%3E",
+    "description": "Quick-Dry Training Shorts. Four-way stretch for full freedom of movement. Reflective details for low-light visibility."
+  },
+  {
+    "id": 18,
+    "title": "Compression Leggings",
+    "price": 78.99,
+    "category": "Sportswear",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%91%96%3C/text%3E%3C/svg%3E",
+    "description": "Compression Leggings. Flat seams prevent chafing during workouts. Soft, durable material that holds its shape."
+  },
+  {
+    "id": 19,
+    "title": "High-Support Sports Bra",
+    "price": 158.99,
+    "category": "Sportswear",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%91%99%3C/text%3E%3C/svg%3E",
+    "description": "High-Support Sports Bra. Lightweight and built for high performance. Machine washable and quick to dry."
+  },
+  {
+    "id": 20,
+    "title": "Lightweight Running Jacket",
+    "price": 65.99,
+    "category": "Sportswear",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%A7%A5%3C/text%3E%3C/svg%3E",
+    "description": "Lightweight Running Jacket. Reflective details for low-light visibility. Athletic fit that moves with you."
+  },
+  {
+    "id": 21,
+    "title": "Non-Stick Frying Pan 28cm",
+    "price": 172.99,
+    "category": "Home & Kitchen",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%8D%B3%3C/text%3E%3C/svg%3E",
+    "description": "Non-Stick Frying Pan 28cm. Makes everyday home life easier and more enjoyable. Elegant design that suits any decor."
+  },
+  {
+    "id": 22,
+    "title": "Stainless Steel Cookware Set",
+    "price": 364.99,
+    "category": "Home & Kitchen",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%8D%B2%3C/text%3E%3C/svg%3E",
+    "description": "Stainless Steel Cookware Set. Crafted from food-safe, durable materials. Heats evenly for consistent results."
+  },
+  {
+    "id": 23,
+    "title": "Electric Kettle 1.7L",
+    "price": 187.99,
+    "category": "Home & Kitchen",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%AB%96%3C/text%3E%3C/svg%3E",
+    "description": "Electric Kettle 1.7L. Easy to clean and dishwasher safe. Space-saving design for compact kitchens."
+  },
+  {
+    "id": 24,
+    "title": "Programmable Coffee Maker",
+    "price": 362.99,
+    "category": "Home & Kitchen",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%E2%98%95%3C/text%3E%3C/svg%3E",
+    "description": "Programmable Coffee Maker. Elegant design that suits any decor. Soft, comfortable and built to last."
+  },
+  {
+    "id": 25,
+    "title": "Air Fryer 5L",
+    "price": 367.99,
+    "category": "Home & Kitchen",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%8D%9F%3C/text%3E%3C/svg%3E",
+    "description": "Air Fryer 5L. Heats evenly for consistent results. Practical, stylish and great value."
+  },
+  {
+    "id": 26,
+    "title": "4-Person Camping Tent",
+    "price": 325.99,
+    "category": "Outdoors",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%E2%9B%BA%3C/text%3E%3C/svg%3E",
+    "description": "4-Person Camping Tent. Built to handle tough weather and rough terrain. Reinforced stitching for long-lasting durability."
+  },
+  {
+    "id": 27,
+    "title": "Sleeping Bag -5°C",
+    "price": 72.99,
+    "category": "Outdoors",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%9B%8C%3C/text%3E%3C/svg%3E",
+    "description": "Sleeping Bag -5°C. Lightweight and packs down small for easy travel. Quick to set up, even for beginners."
+  },
+  {
+    "id": 28,
+    "title": "Insulated Hiking Backpack 45L",
+    "price": 435.99,
+    "category": "Outdoors",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%8E%92%3C/text%3E%3C/svg%3E",
+    "description": "Insulated Hiking Backpack 45L. Water-resistant materials keep you dry. Ideal for camping, hiking and weekend adventures."
+  },
+  {
+    "id": 29,
+    "title": "Trekking Poles (Pair)",
+    "price": 429.99,
+    "category": "Outdoors",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%A5%BE%3C/text%3E%3C/svg%3E",
+    "description": "Trekking Poles (Pair). Reinforced stitching for long-lasting durability. Rugged design tested in real outdoor conditions."
+  },
+  {
+    "id": 30,
+    "title": "LED Headlamp Rechargeable",
+    "price": 224.99,
+    "category": "Outdoors",
+    "img": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22400%22%20height%3D%22400%22%20viewBox%3D%220%200%20400%20400%22%3E%3Ctext%20x%3D%22200%22%20y%3D%22255%22%20text-anchor%3D%22middle%22%20font-size%3D%22200%22%3E%F0%9F%94%A6%3C/text%3E%3C/svg%3E",
+    "description": "LED Headlamp Rechargeable. Quick to set up, even for beginners. Comfortable carry system for all-day use."
+  }
+]
